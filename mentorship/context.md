@@ -92,8 +92,8 @@ Draft the appropriate message.
 ---
 
 ## Notion DB
-- URL: https://www.notion.so/apolloio/2026-Mentorship-Tracker-34aab2b3b49680a09525f9a93db6be9e
-- Data source ID: collection://34aab2b3-b496-80f9-8e68-000b3fb58a68
+- URL: `YOUR_NOTION_DB_URL`
+- Data source ID: `YOUR_NOTION_COLLECTION_ID`
 - Stage options: Intake, Needs info, Screening, Interview, Paused, Accepted, Churned, Rejected
 - New applicants start at: Intake
 - 48hr SLA: if Stage = Intake and Last contacted is null or >48hrs ago → overdue
