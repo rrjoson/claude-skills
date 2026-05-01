@@ -4,7 +4,7 @@
   "plugins": [
     {
       "name": "rr",
-      "source": ".",
+      "source": "./plugins/rr",
       "description": "Ricardo's personal Claude Code skills"
     }
   ]

@@ -1,0 +1,11 @@
+{
+  "email": "you@company.com",
+  "timezone": "Asia/Manila",
+  "github_login": "your-github-username",
+  "github_org": "your-org",
+  "slack_display_name": "YourFirstName",
+  "slack_user_id": "U01XXXXXXXX",
+  "standup_channel_id": "C01XXXXXXXX",
+  "jira_base_url": "yourorg.atlassian.net",
+  "first_run_complete": false
+}
