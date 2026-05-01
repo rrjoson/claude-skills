@@ -1,0 +1,10 @@
+{
+  "name": "rr",
+  "plugins": [
+    {
+      "name": "rr",
+      "source": ".",
+      "description": "Ricardo's personal Claude Code skills"
+    }
+  ]
+}
